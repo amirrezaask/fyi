@@ -3,13 +3,13 @@
     "type": "psql",
     "host": "127.0.0.1",
     "port": 5432,
-    "user": "posgres",
-    "password": "admin",
-    "name": "app"
+    "user": "fyi",
+    "password": "fyi",
+    "name": "fyi"
   },
   "server": {
     "http": {
-      "address": "0.0.0.0:8585"
+      "address": "0.0.0.0:8080"
     }
   },
   "log": {

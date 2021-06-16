@@ -1,7 +1,7 @@
 [psql]
-dbname = "template"
-user = "postgres"
-pass = "admin"
+dbname = "fyi"
+user = "fyi"
+pass = "fyi"
 host = "127.0.0.1"
 port = "5432"
 sslmode = "disable"
