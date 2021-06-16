@@ -1,4 +1,4 @@
-module template
+module github.com/amirrezaask/fyi
 
 go 1.15
 
